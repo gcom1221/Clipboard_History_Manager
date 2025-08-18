@@ -19,7 +19,7 @@ A tiny Java clipboard manager that remembers your last N copies (default 10) and
 <details>
   <summary>See full screen recording</summary>
 
-  <video src="assets/demo.mov" controls muted playsinline width="720"></video>
+  <video src="https://github.com/gcom1221/Clipboard_History_Manager/tree/main/assets/demo.mp4" controls muted playsinline width="720"></video>
 </details>
 
 > Quick look at capturing items and re-copying from the tray.

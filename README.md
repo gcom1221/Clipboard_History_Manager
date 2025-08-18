@@ -18,7 +18,7 @@ A tiny Java clipboard manager that remembers your last N copies (default 10) and
 ## 🎬 Demo
 <details>
   <summary>See full screen recording</summary>
-
+  https://github.com/gcom1221/Clipboard_History_Manager/releases/tag/v0.1.0
   <video src="https://github.com/gcom1221/Clipboard_History_Manager/tree/main/assets/demo.mp4" controls muted playsinline width="720"></video>
 </details>
 

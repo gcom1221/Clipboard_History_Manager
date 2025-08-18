@@ -15,6 +15,17 @@ A tiny Java clipboard manager that remembers your last N copies (default 10) and
 
 ---
 
+## 🎬 Demo
+<details>
+  <summary>See full screen recording</summary>
+
+  <video src="assets.mov" controls muted playsinline width="720"></video>
+</details>
+
+> Quick look at capturing items and re-copying from the tray.
+
+---
+
 ## 🧰 Requirements
 - **Java 17+** (tested with Java 24)
 - Desktop environment with a **system tray** (if unavailable, app still runs headless)
